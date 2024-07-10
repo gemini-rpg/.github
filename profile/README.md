@@ -1,11 +1,10 @@
 # GEMINI RPG
-## Descrição
 A aplicação é um jogo de RPG interativo onde o jogador pode selecionar um personagem. Através do uso de inteligência artificial, o jogo gera histórias únicas baseadas nas características do personagem e nas escolhas do jogador.
 
-## Requisitos
+## 📋 Pré-requisitos
 - Python 3.8
 
-## Instalação
+## 🚀 Começando
 1. Clone o repositório da API
 2. Crie um ambiente virtual para não instalar as dependências de forma global no seu sistema
 ```bash
@@ -33,13 +32,26 @@ flask --app server run
 
 7. Abra e execute a solução do projeto
    
-## Integrantes
-- Gabriel Schorsch Amadeu
-- Gustavo Henrique Ferreira Alves
-- Gustavo Souza Dionizio
-- Sabrina Santos da Silva
+## ✒️ Autores
 
-## Descrição das Ferramentas
+* **Gabriel Schorsch** - [Git](https://github.com/gabrielschorsch)
+* **Gustavo Henrique** - [Git](https://github.com/GustavoHenriqueFerreira)
+* **Gustavo Dionizio** - [Git](https://github.com/gabrielschorsch)
+* **Sabrina Santos** - [Git](https://github.com/sabrinadotsantos)
+
+## 🛠️ Todo o projeto foi construído com:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="rpg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
+  <img align="center" alt="rpg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="rpg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg">
+  <img align="center" alt="rpg-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
+  <img align="center" alt="rpg-expo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align='center' alt="rpg-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+          
+  ###
+
+### Descrição das Ferramentas
 
 UX/UI: Prototipação - Figma:
 
@@ -54,7 +66,7 @@ Back-end: Flask – Python – Websocket:
 
 Flask é um microframework para Python que facilita o desenvolvimento de aplicações web com uma abordagem leve e modular. Ele permite a criação de APIs RESTful e é conhecido por sua simplicidade e flexibilidade.
 
- WebSocket é um protocolo de comunicação que permite uma conexão bidirecional em tempo real entre um cliente e um servidor. É útil para aplicações que requerem atualizações instantâneas, como chats, jogos online, e sistemas de notificação. 
+WebSocket é um protocolo de comunicação que permite uma conexão bidirecional em tempo real entre um cliente e um servidor. É útil para aplicações que requerem atualizações instantâneas, como chats, jogos online, e sistemas de notificação. 
 
 IA - Google Gemini:
 
