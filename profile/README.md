@@ -36,6 +36,7 @@ pip install -r requirements.txt
 ```bash
 GEMINI_API_KEY=<your-gemini-api-key>
 ```
+Como gerar a gemini key: https://ai.google.dev/gemini-api?gad_source=1&gclid=CjwKCAjw4ri0BhAvEiwA8oo6F2N1Yl0OJHz1wltwSYaHow59C2zd-xPddBXU9ic1thEGwAZmvxKgNhoCIwIQAvD_BwE&hl=pt-br
 
 6. Rode a aplicação da API
 ```bash
