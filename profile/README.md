@@ -49,7 +49,10 @@ cd gemini-rpg-front
 ```
 
 7. Abra e execute a solução do projeto
-   
+<img width="490" alt="print da pasta" src="https://github.com/gemini-rpg/.github/assets/82419986/472e644d-7538-44ec-b90e-60068c7214ad">
+<img width="482" alt="print do vs" src="https://github.com/gemini-rpg/.github/assets/82419986/8ce98f6a-da9b-45fc-a6ab-582a54b31f7e">
+
+
 ## ✒️ Autores
 
 * **Gabriel Schorsch** - [Git](https://github.com/gabrielschorsch)
