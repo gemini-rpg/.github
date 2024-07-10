@@ -1,4 +1,4 @@
-# GEMINI RPG
+# magIA RPG
 A aplicação é um jogo de RPG interativo onde o jogador pode selecionar um personagem. Através do uso de inteligência artificial, o jogo gera histórias únicas baseadas nas características do personagem e nas escolhas do jogador.
 
 ## 📋 Pré-requisitos
