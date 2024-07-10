@@ -6,7 +6,7 @@ A aplicação é um jogo de RPG interativo onde o jogador pode selecionar um per
 - Python 3.8
 
 ## Instalação
-1. Clone o repositório
+1. Clone o repositório da API
 2. Crie um ambiente virtual para não instalar as dependências de forma global no seu sistema
 ```bash
 python -m venv .venv
@@ -24,11 +24,15 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-5. Rode a aplicação
+5. Rode a aplicação da API
 ```bash
 flask --app server run
 ```
 
+6. Clone o repositório do Front-end
+
+7. Abra e execute a solução do projeto
+   
 ## Integrantes
 - Gabriel Schorsch Amadeu
 - Gustavo Henrique Ferreira Alves
