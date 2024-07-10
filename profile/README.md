@@ -14,7 +14,7 @@ git clone https://github.com/gemini-rpg/gemini-rpg-api.git
 cd gemini-rpg-api
 ```
 
-3. Crie um ambiente virtual para não instalar as dependências de forma global no seu sistema
+2. Crie um ambiente virtual para não instalar as dependências de forma global no seu sistema
 ```bash
 python -m venv .venv
 ```
