@@ -3,10 +3,16 @@ A aplicação é um jogo de RPG interativo onde o jogador pode selecionar um per
 
 ## 📋 Pré-requisitos
 - Python 3.8
+- Conta no Google Cloud com acesso ao serviço Google Generative AI (Gemini) 
 
 ## 🚀 Começando
 1. Clone o repositório da API
-2. Crie um ambiente virtual para não instalar as dependências de forma global no seu sistema
+```bash
+git clone https://github.com/gemini-rpg/gemini-rpg-api.git
+cd gemini-rpg-api
+```
+
+3. Crie um ambiente virtual para não instalar as dependências de forma global no seu sistema
 ```bash
 python -m venv .venv
 ```
@@ -23,12 +29,22 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-5. Rode a aplicação da API
+5. Configure as variáveis de ambiente
+- Crie um arquivo `.env` na raiz do projeto e adicione as seguintes variáveis:
+```bash
+GEMINI_API_KEY=<your-gemini-api-key>
+```
+
+6. Rode a aplicação da API
 ```bash
 flask --app server run
 ```
 
 6. Clone o repositório do Front-end
+```bash
+git clone https://github.com/gemini-rpg/gemini-rpg-front.git
+cd gemini-rpg-front
+```
 
 7. Abra e execute a solução do projeto
    
@@ -40,7 +56,6 @@ flask --app server run
 * **Sabrina Santos** - [Git](https://github.com/sabrinadotsantos)
 
 ## 🛠️ Todo o projeto foi construído com:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="rpg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
   <img align="center" alt="rpg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
