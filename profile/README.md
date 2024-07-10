@@ -10,7 +10,7 @@ A aplicação é um jogo de RPG interativo onde o jogador pode selecionar um per
 ## 🚀 Começando
 1. Clone o repositório da API
 ```bash
-git clone https://github.com/gemini-rpg/gemini-rpg-api.git
+git clone https://github.com/magIA-rpg/gemini-rpg-api.git
 cd gemini-rpg-api
 ```
 
@@ -44,7 +44,7 @@ flask --app server run
 
 6. Clone o repositório do Front-end
 ```bash
-git clone https://github.com/gemini-rpg/gemini-rpg-front.git
+git clone https://github.com/magIA-rpg/gemini-rpg-front.git
 cd gemini-rpg-front
 ```
 
