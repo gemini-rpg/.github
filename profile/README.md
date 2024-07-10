@@ -3,6 +3,8 @@ A aplicação é um jogo de RPG interativo onde o jogador pode selecionar um per
 
 ## 📋 Pré-requisitos
 - Python 3.8
+- .NET 8
+- VS Studio
 - Conta no Google Cloud com acesso ao serviço Google Generative AI (Gemini) 
 
 ## 🚀 Começando
