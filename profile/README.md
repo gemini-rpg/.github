@@ -36,7 +36,7 @@ flask --app server run
 
 * **Gabriel Schorsch** - [Git](https://github.com/gabrielschorsch)
 * **Gustavo Henrique** - [Git](https://github.com/GustavoHenriqueFerreira)
-* **Gustavo Dionizio** - [Git](https://github.com/gabrielschorsch)
+* **Gustavo Dionizio** - [Git](https://github.com/gugaSouza-dev)
 * **Sabrina Santos** - [Git](https://github.com/sabrinadotsantos)
 
 ## 🛠️ Todo o projeto foi construído com:
